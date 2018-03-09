@@ -14,9 +14,9 @@
 ## Base settings ##
 # url:  #the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: /
-title: Someone's blog
+title: Design
 description: > #this means to ignore newlines until "nav_lists:"
-  Someone's Blog
+  There is no set path.Just follow your heart.
 
 nav_lists:
   - titles:
