@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  <<<<<<< HEAD
  There is no set path.Just follow your heart.
 
-=======
+ =======
   There is no set path.Just follow your heart.
 >>>>>>> 8f44727cb6fbbbd0c69ae55a42010fa9de04ac7a
 baseurl: "" # the subpath of your site, e.g. /blog
