@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
  =======
   There is no set path.Just follow your heart.
->>>>>>> 8f44727cb6fbbbd0c69ae55a42010fa9de04ac7a
+ >>>>>>> 8f44727cb6fbbbd0c69ae55a42010fa9de04ac7a
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
