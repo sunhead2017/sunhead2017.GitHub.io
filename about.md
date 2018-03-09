@@ -8,8 +8,6 @@ titles:
 key: page-about
 ---
 
-Just say something about yourself. :+1:
+This is sunhao's blog.
 
-{% highlight javascript %}
-  (() => console.log('hello, world!'))();
-{% endhighlight %}
+Welcome to my site.I'd like to share my thoughts with you.
