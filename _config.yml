@@ -16,7 +16,7 @@
 title: Design
 email: sunhao24100@163.com
 description: >- # this means to ignore newlines until "baseurl:"
-<<<<<<< HEAD
+ <<<<<<< HEAD
  There is no set path.Just follow your heart.
 
 =======
@@ -29,7 +29,7 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: tale # minima
 plugins:
   - jekyll-feed
 
